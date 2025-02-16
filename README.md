@@ -29,7 +29,8 @@
 - 📫 Reach me at **hafsa.lozzi@gmail.com**
 
 ---
-<img align="right" alt="Coding" width="400" src="https://31.media.tumblr.com/4717a813263f471b0def42d70c835ad5/tumblr_mtw0ojDUCQ1ru39xmo1_500.gif">
+
+
 ### 📬 Connect With Me
 <p align="left">
   <a href="https://twitter.com/hafsa1445" target="blank">
