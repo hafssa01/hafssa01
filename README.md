@@ -1,6 +1,6 @@
 ![Banner](https://github.com/hafssa01/hafssa01/blob/master/Blue%20Modern%20Corporate%20Staff%20Profile%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Hafssa</h1>
-<h3 align="center">A Passionate Fullstack Developer</h3>
+<h2 align="center">A Passionate Fullstack Developer</h3>
 
 
 <p align="center">
@@ -21,7 +21,7 @@
 
 ---
 
-### 🚀 About Me
+## 🚀 About Me
 - 🔭 I’m currently working on **[BloodConnect](https://www.blood-connect.me/)**
 - 🌱 I’m currently learning **Ethical Hacking & Penetration Testing**
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://hafssa-portfolio.netlify.app/)**
@@ -31,7 +31,7 @@
 ---
 
 
-### 📬 Connect With Me
+## 📬 Connect With Me
 <p align="left">
   <a href="https://twitter.com/hafsa1445" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hafsa1445" height="30" width="40" />
@@ -45,28 +45,28 @@
 </p>
 ---
 
-### 🛠️ Tech Stack
-#### **📌 Programming Languages**
+## 🛠️ Tech Stack
+### **📌 Programming Languages**
 ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
-#### **🌐 Web Development**
+### **🌐 Web Development**
 ![](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-#### **⚙️ Backend & Databases**
+### **⚙️ Backend & Databases**
 ![](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-#### **🔧 Tools & Platforms**
+### **🔧 Tools & Platforms**
 ![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -74,12 +74,12 @@
 ![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 
-#### **🖌️ Design & Multimedia**
+### **🖌️ Design & Multimedia**
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![](https://img.shields.io/badge/Adobe%20Premiere%20Pro-999999?style=for-the-badge&logo=adobepremierepro&logoColor=white)
 ![](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 
-#### **🤖 IoT & Hardware & AI**
+### **🤖 IoT & Hardware & AI**
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-003C7F?style=for-the-badge&logo=espressif&logoColor=white)
@@ -87,7 +87,7 @@
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hafssa01&show_icons=true&theme=radical" alt="hafssa01" />
 </p>
