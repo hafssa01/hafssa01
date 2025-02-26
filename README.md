@@ -22,6 +22,8 @@
 ---
 
 ## 🚀 About Me
+- 🔭 I’m currently working on *[BloodConnect](https://www.blood-connect.me/)*
+- 🌱 I’m currently learning *Web security*
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://hafssa-portfolio.netlify.app/)**
 - 💬 Ask me about **Python, React**
 - 📫 Reach me at **hafsa.lozzi@gmail.com**
