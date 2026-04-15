@@ -22,7 +22,7 @@
 ---
 
 ## 🚀 About Me
-- 🔭 I’m currently working on *[AoraMobileApp](https://github.com/hafssa01/aora-mobile-app)*
+- 🔭 I’m currently working on *[SmartSaqi](https://github.com/hafssa01/SmartSaqi.git)*
 - 🌱 I’m currently learning *ReactNative*
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://hafssa-portfolio.netlify.app/)**
 - 💬 Ask me about **Python, React**
