@@ -23,7 +23,7 @@
 
 ## 🚀 About Me
 - 🔭 I’m currently working on *[SmartSaqi](https://github.com/hafssa01/SmartSaqi.git)*
-- 🌱 I’m currently learning *ReactNative*
+- 🌱 I’m currently learning *Flutter*
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://hafssa-portfolio.netlify.app/)**
 - 💬 Ask me about **Python, React**
 - 📫 Reach me at **hafsa.lozzi@gmail.com**
@@ -82,7 +82,6 @@
 
 ### **🤖 IoT & Hardware & AI**
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white)
 ![ESP32](https://img.shields.io/badge/ESP32-003C7F?style=for-the-badge&logo=espressif&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
