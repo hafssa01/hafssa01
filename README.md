@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=hafssa01&theme=onedark" alt="hafssa01" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=50&section=header" />
   </a>
 </p>
 
